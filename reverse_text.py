@@ -1,2 +1,2 @@
 def reverse_text(value):
-    return value[::-1]
+    return value[::-2]
